@@ -1,0 +1,7 @@
+pizza
+carne
+galinha
+porco
+maça
+banana
+mamao
